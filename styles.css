@@ -2330,6 +2330,7 @@ a {
     width: 100%;
   }
 }
+
 @media (max-width: 575px) {
   .u-form-vertical .u-form-group.u-label-left {
     display: block;
