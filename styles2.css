@@ -170,8 +170,8 @@
 
   #btnWhats:hover {
       background-color: rgba(4, 206, 81, 0.123); /*transparent;  Add a dark-grey background on hover */
-      border-radius: 2rem;
-      top: 46rem;
+      border-radius: 10rem;
+      top: 45rem;
 
   }
 
